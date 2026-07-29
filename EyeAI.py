@@ -354,7 +354,7 @@ def extract_image_features(image):
         return None
 
 # --- Main App ---
-st.title("👁️ NutriVision")
+st.title("👁️ EyeAI")
 st.markdown("### Diabetic Retinopathy Detection with Personalized Nutrition Advisor")
 
 # Initialize session state
