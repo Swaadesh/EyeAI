@@ -1,7 +1,8 @@
-Register for NPTEL
-update CV with my new computer vison project before TCS
-extend hostel booking
-register for cse393 reappear
-
-wikit
-finthesis
+streamlit
+pandas
+numpy
+opencv-python
+Pillow
+joblib
+scikit-image
+pytesseract
