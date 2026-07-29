@@ -1,6 +1,6 @@
-# 🌟 NutriSight  
+# 🌟 EyeAI
 
-**NutriSight** is a web-based health assistant that combines **machine learning**, **image processing**, and **NLP-powered food analysis** to support people with **Diabetic Retinopathy (DR)**.  
+**EyeAI** is a web-based health assistant that combines **machine learning**, **image processing**, and **NLP-powered food analysis** to support people with **Diabetic Retinopathy (DR)**.  
 
 It detects the **stage of DR** from retinal fundus images and recommends **diabetes-friendly meals** from restaurant menus — empowering users to make informed, healthy dining choices.  
 
