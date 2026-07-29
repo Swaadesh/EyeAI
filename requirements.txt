@@ -1,9 +1,10 @@
 streamlit
 pandas
 numpy
-opencv-python
+opencv-python-headless
 Pillow
 joblib
 scikit-image
 pytesseract
+scikit-learn
 xgboost
